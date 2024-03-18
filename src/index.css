@@ -1,0 +1,22 @@
+/* Set background color for the body */
+body {
+    background-color: #15bacf; /* You can change the color code to your preference */
+}
+
+/* Add box shadow to cards */
+.card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* You can adjust the shadow properties */
+}
+
+/* Style button color */
+.btn-primary {
+    background-color: #007bff; /* Blue color as an example. Change it to your desired color */
+    border-color: #007bff; /* Border color same as background color */
+}
+
+/* Style button hover color */
+.btn-primary:hover {
+    background-color: #0056b3; /* Darker shade of blue on hover */
+    border-color: #0056b3; /* Border color on hover */
+    color: #fff; /* Text color on hover */
+}
